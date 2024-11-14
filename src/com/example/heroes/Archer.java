@@ -5,7 +5,7 @@ import com.example.Hero;
 
 public class Archer extends Hero {
     public Archer(String name) {
-        super(name, 12); // 12 damage points for archer
+        super(name, 18); 
     }
 
     @Override
